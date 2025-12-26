@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ハートに火をつけて",
+  "base_artist": "9mm Parabellum Bullet",
+  "createdAt": "2025-12-26T05:58:20.089286Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハートに火をつけて(ALBUM Ver.)",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": false,
+      "path": "select/01_ハートに火をつけて(ALBUM_Ver.)_9mm_Parabellum_Bullet.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハートに火をつけて",
+      "artist": "Ian Gillan feat. Rick Wakeman & Steve Howe",
+      "has_synced": false,
+      "path": "select/02_ハートに火をつけて_Ian_Gillan_feat._Rick_Wakeman_&_Steve_Howe.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハートに火をつけて",
+      "artist": "アーマ・フランクリン",
+      "has_synced": false,
+      "path": "select/03_ハートに火をつけて_アーマ・フランクリン.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハートに火をつけて",
+      "artist": "Junko Ohashi",
+      "has_synced": false,
+      "path": "select/04_ハートに火をつけて_Junko_Ohashi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハートに火をつけて",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/05_ハートに火をつけて_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハートに火をつけて (instrumental)",
+      "artist": "安室奈美恵",
+      "has_synced": true,
+      "path": "select/06_ハートに火をつけて_(instrumental)_安室奈美恵.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハートに火をつけて",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/07_ハートに火をつけて_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハートに火をつけて -2024 Remastered-",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/08_ハートに火をつけて_-2024_Remastered-_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ハートに火をつけて",
+      "artist": "安室奈美恵",
+      "has_synced": true,
+      "path": "select/09_ハートに火をつけて_安室奈美恵.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ハートに火をつけて (Instrumental)",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/10_ハートに火をつけて_(Instrumental)_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Light My Fire (live) - ハートに火をつけて",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/11_Light_My_Fire_(live)_-_ハートに火をつけて_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ハートに火をつけて (ALBUM Ver․)",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/12_ハートに火をつけて_(ALBUM_Ver.)_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ハートに火をつけて",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/13_ハートに火をつけて_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ハートに火をつけて",
+      "artist": "Nanahoshi Orchestra feat. GUMI",
+      "has_synced": false,
+      "path": "select/14_ハートに火をつけて_Nanahoshi_Orchestra_feat._GUMI.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ハートに火をつけて",
+      "artist": "こじろー feat. GUMI",
+      "has_synced": false,
+      "path": "select/15_ハートに火をつけて_こじろー_feat._GUMI.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ハートに火をつけて",
+      "artist": "Namie Amuro with SUPER MONKEY'S",
+      "has_synced": true,
+      "path": "select/16_ハートに火をつけて_Namie_Amuro_with_SUPER_MONKEY'S.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハートに火をつけて",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": false,
+      "path": "select/pl_01_ハートに火をつけて_9mm_Parabellum_Bullet.txt"
+    }
+  ]
+}
